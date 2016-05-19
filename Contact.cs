@@ -7,4 +7,8 @@ public class Contact
 	public string LastName
 	public string EmailAddress
 	public string PhoneNumber
+	public string Address
+	public string City
+	public string State
+	public string PostalCode
 }
