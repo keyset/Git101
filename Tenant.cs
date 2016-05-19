@@ -10,4 +10,5 @@ public class Tenant
 	public string City
 	public string State
 	public string PostalCode
+	public int SuccessManagerID
 }
