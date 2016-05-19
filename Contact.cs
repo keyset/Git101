@@ -11,4 +11,5 @@ public class Contact
 	public string City
 	public string State
 	public string PostalCode
+	public string MiddleName
 }
